@@ -199,6 +199,11 @@ section {
   text-align: center;
 }
 
+.titles {
+  font-size: 1rem;
+  text-align: center;
+}
+
 #socials-container {
   display: flex;
   justify-content: center;
